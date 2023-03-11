@@ -11,3 +11,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ## Use
 
 Download the datasets ```train.csv``` and ```test.csv```, change the path of the files in the notebook for the path in your computer to the files. The you can run every cell if your environment has the needed dependencies.
+
+## Present
+
+Most recent summition is the file called feature engineering, wich improve the model performance respect from the last.
