@@ -14,4 +14,4 @@ Download the datasets ```train.csv``` and ```test.csv```, change the path of the
 
 ## Present
 
-Most recent summition is the file called feature engineering, wich improve the model performance respect from the last.
+Most recent summition is the file called automatic_hyperparemeter_tunning, wich improve the model performance respect from the last.
